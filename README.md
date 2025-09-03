@@ -98,13 +98,13 @@ response = requests.get('http://localhost:8000/health')
 print(f'✅ API Status: {response.json()[\"status\"]}')
 "
 
-Uso de IA no Desenvolvimento (Hangzhou DeepSeek):
+# Uso de IA no Desenvolvimento (Hangzhou DeepSeek):
 
 Declaração de Uso de Ferramentas de IA.
 Este projeto foi desenvolvido com assistência estratégica de IA para acelerar o desenvolvimento, garantir boas práticas de código e implementar soluções otimizadas.
 
 
-Como a IA foi utilizada - 
+# Como a IA foi utilizada - 
 
 1. Geração de Estrutura e Boilerplate:
 
@@ -136,7 +136,8 @@ Adição de comentários técnicos detalhados para manutenibilidade.
 
 Otimização de queries SQL e estrutura de dados.
 
-📊 Partes Desenvolvidas Manualmente:
+# 📊 Partes Desenvolvidas Manualmente:
+
 Criaçãoe e parametrização da API FastAPI
 
 Desenvolvimento dos gráficos na interface web.
@@ -153,7 +154,8 @@ Configuração de Ambiente: Scripts de setup e documentação.
 
 Validações de Negócio: Regras específicas de domínio.
 
-✅ Métodos de Validação Implementados:
+# ✅ Métodos de Validação Implementados:
+
 Testes Manuais: Todos os endpoints testados via Swagger UI
 
 Validação de Dados: Verificação cruzada entre CSV, SQLite e API responses
@@ -163,6 +165,7 @@ Testes de Usabilidade: Avaliação da interface e experiência do usuário
 Monitoramento de Performance: Análise de tempo de resposta e consumo de memória
 
 Validação de Negócio: Confirmação das regras de processamento específicas
+
 
 
 
