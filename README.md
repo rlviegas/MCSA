@@ -99,10 +99,13 @@ print(f'✅ API Status: {response.json()[\"status\"]}')
 "
 
 Uso de IA no Desenvolvimento (Hangzhou DeepSeek):
+
 Declaração de Uso de Ferramentas de IA.
 Este projeto foi desenvolvido com assistência estratégica de IA para acelerar o desenvolvimento, garantir boas práticas de código e implementar soluções otimizadas.
 
-Como a IA foi utilizada:
+
+Como a IA foi utilizada - 
+
 1. Geração de Estrutura e Boilerplate:
 
 Contribuição: Definição da arquitetura modular e organização do projeto.
@@ -160,5 +163,6 @@ Testes de Usabilidade: Avaliação da interface e experiência do usuário
 Monitoramento de Performance: Análise de tempo de resposta e consumo de memória
 
 Validação de Negócio: Confirmação das regras de processamento específicas
+
 
 
