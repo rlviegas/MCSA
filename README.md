@@ -7,7 +7,7 @@ Git (controle de versão)
 
 🚀 Instalação
 1. Clone o repositório
-git clone https://github.com/seu-usuario/MCSA.git
+git clone https://github.com/rlviegas/MCSA.git
 cd MCSA 
 
 2. Instale as dependências
@@ -160,4 +160,5 @@ Testes de Usabilidade: Avaliação da interface e experiência do usuário
 Monitoramento de Performance: Análise de tempo de resposta e consumo de memória
 
 Validação de Negócio: Confirmação das regras de processamento específicas
+
 
