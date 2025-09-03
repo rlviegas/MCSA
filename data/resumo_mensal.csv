@@ -1,0 +1,10 @@
+MES_ANO,CREDOR,STATUS_TITULO,QUANTIDADE,VALOR_TOTAL,VALOR_MEDIO
+2023-01,Credor A,Pago,2,"2.000,00","1.000,00"
+2023-01,Credor B,Pendente,1,"500,00","500,00"
+2023-02,Credor A,Pendente,1,"0,00","0,00"
+2023-02,Credor B,Vencido,1,"2.500,50","2.500,50"
+2023-03,Credor A,Vencido,1,"1.200,00","1.200,00"
+2023-04,Credor C,Pendente,1,"400,00","400,00"
+2023-05,Credor A,Vencido,1,"900,00","900,00"
+2023-05,Credor B,Pago,1,"750,00","750,00"
+2023-10,Credor C,Pago,1,"300,00","300,00"

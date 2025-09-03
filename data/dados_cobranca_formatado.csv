@@ -1,0 +1,11 @@
+CREDOR,CAMPANHA,CLIENTE,DATA_CADASTRO,DATA_PAGAMENTO,STATUS_TITULO,VALOR
+Credor A,Campanha 1,Cliente X,2023-01-15,2023-10-02,Pago,"1.000,00"
+Credor A,Campanha 1,Cliente Y,2023-01-15,2023-02-10,Pago,"1.000,00"
+Credor B,Campanha 2,Cliente Z,2023-01-15,2023-02-10,Pendente,"500,00"
+Credor B,Campanha 2,Cliente W,2023-02-20,2023-03-15,Vencido,"2.500,50"
+Credor A,Campanha 1,Cliente V,2023-02-20,2023-03-15,Pendente,"0,00"
+Credor B,Campanha 3,Cliente U,2023-05-03,2023-01-04,Pago,"750,00"
+Credor A,Campanha 1,Cliente T,2023-03-05,2023-04-01,Vencido,"1.200,00"
+Credor C,Campanha 4,Cliente S,2023-10-04,2023-05-05,Pago,"300,00"
+Credor C,Campanha 4,Cliente R,2023-04-10,2023-05-05,Pendente,"400,00"
+Credor A,Campanha 1,Cliente Q,2023-05-15,2023-10-06,Vencido,"900,00"
