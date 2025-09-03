@@ -1,26 +1,5 @@
 📊 MCSA - Rafael Viegas
 
-🏗️ Arquitetura do Projeto
-
-MCSA/
-├── data/                 # Processamento de dados (ETL)
-│   ├── dados_cobranca.csv           # Dados originais
-│   ├── dados_cobranca_formatado.csv # Dados tratados
-│   ├── resumo_mensal.csv            # Resumo analítico
-│   ├── resumo.bd                    # Banco SQLite
-│   ├── processador_csv.py           # Processamento CSV
-│   └── etl.py                      # Pipeline ETL completo
-├── api/                  # API FastAPI
-│   ├── main.py          # Aplicação principal
-│   ├── models.py        # Modelos Pydantic
-│   └── utils.py         # Utilidades e queries
-├── viz/                  # Dashboard Streamlit
-│   └── app.py           # Aplicação visual interativa
-├── main.py              # Pipeline principal de execução
-├── run_api.py           # Inicializador da API
-├── requirements.txt     # Dependências do projeto
-└── README.md           # Documentação completa
-
 📋 Pré-requisitos
 Python 3.8+
 pip (gerenciador de pacotes Python)
@@ -181,3 +160,4 @@ Testes de Usabilidade: Avaliação da interface e experiência do usuário
 Monitoramento de Performance: Análise de tempo de resposta e consumo de memória
 
 Validação de Negócio: Confirmação das regras de processamento específicas
+
